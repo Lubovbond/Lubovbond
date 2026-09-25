@@ -41,7 +41,7 @@
         <br><small>Объединение разнородных транзакционных данных и финансовых метрик брендов. Предобработка на Pandas, расчет операционных KPI ритейла (выручка MoM, % выкупа). Внедрено в регулярные бизнес-процессы CEO.</small>
       </td>
       <td><code>Python</code> <code>Pandas</code> <code>SQL</code> <code>Tableau</code> <code>MS Excel</code></td>
-      <td align="center"><a href="https://github.com">📂 Открыть проект</a></td>
+      <td align="center"><a href="https://github.com/Lubovbond/beauty-assortment-analytics">📂 Открыть проект</a></td>
     </tr>
     <!-- УЧЕБНЫЙ ПРОЕКТ 1: AIRFLOW -->
     <tr>
