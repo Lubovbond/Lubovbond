@@ -9,12 +9,7 @@
 <img src="aa.gif" width="650" alt="Data Analytics Welcome Animation">
 
 ---
-
-<!-- Блок с фотографией (IMG_9323.jpg) и профессиональным саммари -->
-<table>
-  <tr>
-    <td width="30%" align="center" valign="middle">
-      <img src="IMG_9323.jpg" width="220" style="border-radius: 50%; object-fit: cover; aspect-ratio: 1/1;" alt="Любовь Бондаренко">
+      < alt="Любовь Бондаренко">
     </td>
     <td width="70%" valign="top" style="padding-left: 20px;">
       <h4>Обо мне</h4>
