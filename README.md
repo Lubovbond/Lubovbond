@@ -32,7 +32,7 @@
         <br><small>Разработка ETL-скриптов для обработки логов мусороуборочной техники, очистка и гео-обогащение данных, расчет метрик SLA и построение интерактивного дашборда на гео-картах. Снижение жалоб жителей на 25%.</small>
       </td>
       <td><code>Python</code> <code>Pandas</code> <code>SQL</code> <code>Apache Airflow</code> <code>Yandex DataLens</code> <code>GeoJSON</code></td>
-      <td align="center"><a href="https://github.com">📂 Открыть проект</a></td>
+      <td align="center"><a href="https://github.com/Lubovbond/tko-analytics">📂 Открыть проект</a></td>
     </tr>
     <!-- ПРОЕКТ 2: БЬЮТИ -->
     <tr>
