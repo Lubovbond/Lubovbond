@@ -4,7 +4,7 @@
 ### Data Analyst / BI Analyst
 
 <!-- Ваша главная приветственная гифка (aa.gif) -->
-<img src="aa.gif" width="650" alt="Data Analytics Welcome Animation">
+<img src="аа.gif" width="650" alt="Data Analytics Welcome Animation">
 
 </div>
 
