@@ -1,8 +1,5 @@
 <div align="center">
 
-# Привет! Я Любовь 👋
-### Data Analyst / BI Analyst
-
 <!-- Ваша главная приветственная гифка (aa.gif) -->
 <img src="аа.gif" width="650" alt="Data Analytics Welcome Animation">
 
