@@ -14,7 +14,7 @@
 * **Мой подход к работе:** я не просто строю графики, а перевожу сложные массивы сырых данных на понятный язык бизнес-метрик. Помогаю находить точки роста, оптимизировать процессы и прозрачный контроль KPI в реальном времени.
 
 ---
-## 📂 Портфолио проектов (Commercial & Направления)
+## 📂 Портфолио проектов (Commercial & Educational)
 
 <table width="100%">
   <thead>
@@ -32,18 +32,27 @@
         <br><small>Разработка ETL-скриптов для обработки логов мусороуборочной техники, очистка и гео-обогащение данных, расчет метрик SLA и построение интерактивного дашборда на гео-картах. Снижение жалоб жителей на 25%.</small>
       </td>
       <td><code>Python</code> <code>Pandas</code> <code>SQL</code> <code>Apache Airflow</code> <code>Yandex DataLens</code> <code>GeoJSON</code></td>
-      <td align="center"><a href="https://github.com/Lubovbond/tko-analytics">📂 Открыть проект</a></td>
+      <td align="center"><a href="https://github.com">📂 Открыть проект</a></td>
     </tr>
     <!-- ПРОЕКТ 2: БЬЮТИ -->
     <tr>
       <td>
         <b>💄 Эффективность ассортиментной матрицы бьюти-товаров и контроль KPI выкупа</b>
-        <br><small>Объединение разнородных транзакционных данных и финансовых метрик брендов. Предобработка на Pandas, расчет операционных KPI ритейла (выручка MoM, % выкупа). Внедрено в регулярные бизнес-процессы CEO.</small>
+        <br><small>Объединение разнородных транзакционных данных и финансовых метрик брендов. Предобработка на Pandas, расчет операционных KPI ритейла (выручка MoM, % выкупа). Построение аналитического дашборда в Yandex DataLens.</small>
       </td>
-      <td><code>Python</code> <code>Pandas</code> <code>SQL</code> <code>Tableau</code> <code>MS Excel</code></td>
-      <td align="center"><a href="https://github.com/Lubovbond/beauty-assortment-analytics">📂 Открыть проект</a></td>
+      <td><code>Python</code> <code>Pandas</code> <code>SQL</code> <code>Yandex DataLens</code> <code>MS Excel</code></td>
+      <td align="center"><a href="https://github.com">📂 Открыть проект</a></td>
     </tr>
-    <!-- УЧЕБНЫЙ ПРОЕКТ 1: AIRFLOW -->
+    <!-- УЧЕБНЫЙ ПРОЕКТ 1: SQL PORTFOLIO (ВАШ РЕАЛЬНЫЙ РЕПОЗИТОРИЙ) -->
+    <tr>
+      <td>
+        <b>📊 Комплексный анализ баз данных и решение бизнес-задач на SQL</b>
+        <br><small><i>Учебный проект.</i> Написание продвинутых аналитических SQL-запросов, проектирование реляционных связей, агрегация данных, применение оконных функций и когортный анализ пользователей для симуляции реальных продуктовых задач.</small>
+      </td>
+      <td><code>SQL</code> <code>PostgreSQL</code> <code>Аналитика данных</code> <code>Оптимизация запросов</code></td>
+      <td align="center"><a href="https://github.com/Lubovbond/sql-analysis-portfolio">📂 Открыть проект</a></td>
+    </tr>
+    <!-- УЧЕБНЫЙ ПРОЕКТ 2: AIRFLOW -->
     <tr>
       <td>
         <b>🌪️ Автоматизация конвейера глобальной доменной аналитики</b>
@@ -52,16 +61,8 @@
       <td><code>Python</code> <code>Pandas</code> <code>Apache Airflow</code> <code>GitLab CI/CD</code></td>
       <td align="center"><a href="https://karpov.courses">📂 Открыть проект</a></td>
     </tr>
-    <!-- УЧЕБНЫЙ ПРОЕКТ 2: ЗАГОТОВКА -->
-    <tr>
-      <td>
-        <b>📊 Комплексный анализ баз данных с помощью SQL</b>
-        <br><small><i>Учебный проект (Karpov.Courses).</i> Написание сложных оконных функций, оптимизация запросов, когортный анализ и сегментация пользователей на базе СУБД PostgreSQL.</small>
-      </td>
-      <td><code>SQL</code> <code>PostgreSQL</code> <code>Аналитика</code></td>
-      <td align="center"><i>В процессе ⏳</i></td>
-    </tr>
   </tbody>
 </table>
+
 
 
