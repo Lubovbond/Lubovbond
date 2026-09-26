@@ -24,7 +24,7 @@
       <th width="20%" align="center">🔗 Исходный код / Подробнее</th>
     </tr>
   </thead>
-  <tbody>
+    <tbody>
     <!-- ПРОЕКТ 1: ТКО -->
     <tr>
       <td>
@@ -32,6 +32,7 @@
         <br><small>Разработка ETL-скриптов для обработки логов мусороуборочной техники, очистка и гео-обогащение данных, расчет метрик SLA и построение интерактивного дашборда на гео-картах. Снижение жалоб жителей на 25%.</small>
       </td>
       <td><code>Python</code> <code>Pandas</code> <code>SQL</code> <code>Apache Airflow</code> <code>Yandex DataLens</code> <code>GeoJSON</code></td>
+      <!-- Ссылка ведет строго на вашу папку tko-analytics -->
       <td align="center"><a href="https://github.com">📂 Открыть проект</a></td>
     </tr>
     <!-- ПРОЕКТ 2: БЬЮТИ -->
@@ -41,16 +42,18 @@
         <br><small>Объединение разнородных транзакционных данных и финансовых метрик брендов. Предобработка на Pandas, расчет операционных KPI ритейла (выручка MoM, % выкупа). Построение аналитического дашборда в Yandex DataLens.</small>
       </td>
       <td><code>Python</code> <code>Pandas</code> <code>SQL</code> <code>Yandex DataLens</code> <code>MS Excel</code></td>
+      <!-- Ссылка ведет строго на вашу папку beauty-assortment-analytics -->
       <td align="center"><a href="https://github.com">📂 Открыть проект</a></td>
     </tr>
-    <!-- УЧЕБНЫЙ ПРОЕКТ 1: SQL PORTFOLIO (ВАШ РЕАЛЬНЫЙ РЕПОЗИТОРИЙ) -->
+    <!-- УЧЕБНЫЙ ПРОЕКТ 1: SQL PORTFOLIO -->
     <tr>
       <td>
         <b>📊 Комплексный анализ баз данных и решение бизнес-задач на SQL</b>
         <br><small><i>Учебный проект.</i> Написание продвинутых аналитических SQL-запросов, проектирование реляционных связей, агрегация данных, применение оконных функций и когортный анализ пользователей для симуляции реальных продуктовых задач.</small>
       </td>
       <td><code>SQL</code> <code>PostgreSQL</code> <code>Аналитика данных</code> <code>Оптимизация запросов</code></td>
-      <td align="center"><a href="https://github.com/Lubovbond/sql-analysis-portfolio">📂 Открыть проект</a></td>
+      <!-- Ссылка ведет строго на вашу папку sql-analysis-portfolio -->
+      <td align="center"><a href="https://github.com">📂 Открыть проект</a></td>
     </tr>
     <!-- УЧЕБНЫЙ ПРОЕКТ 2: AIRFLOW -->
     <tr>
@@ -59,10 +62,11 @@
         <br><small><i>Учебный проект (Karpov.Courses).</i> Создание кастомного ETL-процесса в Airflow. Автоматическое скачивание веб-аналитики топ-1м доменов, параллельная фильтрация по региональным зонам (.ru, .com) и логирование результатов.</small>
       </td>
       <td><code>Python</code> <code>Pandas</code> <code>Apache Airflow</code> <code>GitLab CI/CD</code></td>
-      <td align="center"><a href="https://karpov.courses">📂 Открыть проект</a></td>
+      <!-- Ссылка ведет строго на вашу папку airflow-domain-analytics -->
+      <td align="center"><a href="https://github.com">📂 Открыть проект</a></td>
     </tr>
   </tbody>
-</table>
+
 
 
 
