@@ -33,7 +33,7 @@
       </td>
       <td><code>Python</code> <code>Pandas</code> <code>SQL</code> <code>Apache Airflow</code> <code>Yandex DataLens</code> <code>GeoJSON</code></td>
       <!-- Ссылка ведет строго на вашу папку tko-analytics -->
-      <td align="center"><a href="https://github.com">📂 Открыть проект</a></td>
+      <td align="center"><a href="https://github.com/Lubovbond/tko-analytics">📂 Открыть проект</a></td>
     </tr>
     <!-- ПРОЕКТ 2: БЬЮТИ -->
     <tr>
@@ -43,7 +43,7 @@
       </td>
       <td><code>Python</code> <code>Pandas</code> <code>SQL</code> <code>Yandex DataLens</code> <code>MS Excel</code></td>
       <!-- Ссылка ведет строго на вашу папку beauty-assortment-analytics -->
-      <td align="center"><a href="https://github.com">📂 Открыть проект</a></td>
+      <td align="center"><a href="https://github.com/Lubovbond/beauty-assortment-analytics">📂 Открыть проект</a></td>
     </tr>
     <!-- УЧЕБНЫЙ ПРОЕКТ 1: SQL PORTFOLIO -->
     <tr>
@@ -53,7 +53,7 @@
       </td>
       <td><code>SQL</code> <code>PostgreSQL</code> <code>Аналитика данных</code> <code>Оптимизация запросов</code></td>
       <!-- Ссылка ведет строго на вашу папку sql-analysis-portfolio -->
-      <td align="center"><a href="https://github.com">📂 Открыть проект</a></td>
+      <td align="center"><a href="https://github.com/Lubovbond/sql-analysis-portfolio">📂 Открыть проект</a></td>
     </tr>
     <!-- УЧЕБНЫЙ ПРОЕКТ 2: AIRFLOW -->
     <tr>
@@ -63,7 +63,7 @@
       </td>
       <td><code>Python</code> <code>Pandas</code> <code>Apache Airflow</code> <code>GitLab CI/CD</code></td>
       <!-- Ссылка ведет строго на вашу папку airflow-domain-analytics -->
-      <td align="center"><a href="https://github.com">📂 Открыть проект</a></td>
+      <td align="center"><a href="https://github.com/Lubovbond/airflow-domain-analytics">📂 Открыть проект</a></td>
     </tr>
   </tbody>
 
